@@ -116,9 +116,6 @@ The sidebar converts to a mobile drawer on smaller screens.
 - **Framer Motion** - Animations (optional enhancement)
 
 
-```
-
-
 ## 🔐 Future Enhancements
 
 Potential improvements:
